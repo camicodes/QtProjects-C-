@@ -1,0 +1,20 @@
+
+Obrero: Juan
+Salario: $480.7
+Descuento (9.5%): $45.6665
+Salario neto: $435.034
+--
+
+
+Obrero: Andrea
+Salario: $154.5
+Descuento (9.5%): $14.6775
+Salario neto: $139.822
+--
+
+
+Obrero: Roberto
+Salario: $506
+Descuento (9.5%): $48.07
+Salario neto: $457.93
+--
